@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhe_we_go_again"]=self["webpackChunkhe_we_go_again"]||[]).push([[447],{9447:function(e,n,t){t.r(n),t.d(n,{default:function(){return i}});var a=t(3396),u=t(3369);const r=(0,a._)("h1",null,"404 Sayfa Bulunamadı",-1);function s(e,n){return(0,a.wg)(),(0,a.j4)(u.K,{class:"text-xs-right","text-xs-right":""},{default:(0,a.w5)((()=>[r])),_:1})}var c=t(89);const f={},h=(0,c.Z)(f,[["render",s]]);var i=h}}]);
+//# sourceMappingURL=447.6393c7ad.js.map

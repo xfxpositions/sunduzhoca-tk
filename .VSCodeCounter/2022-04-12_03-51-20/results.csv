@@ -1,0 +1,34 @@
+"filename", "language", "JavaScript", "JSON with Comments", "Vue", "JSON", "XML", "Markdown", "HTML", "comment", "blank", "total"
+"c:\Users\yusuf\Desktop\he-we-go-again\README.md", "Markdown", 0, 0, 0, 0, 0, 19, 0, 0, 6, 25
+"c:\Users\yusuf\Desktop\he-we-go-again\apis\package-lock.json", "JSON", 0, 0, 0, 3541, 0, 0, 0, 0, 1, 3542
+"c:\Users\yusuf\Desktop\he-we-go-again\apis\package.json", "JSON", 0, 0, 0, 21, 0, 0, 0, 0, 1, 22
+"c:\Users\yusuf\Desktop\he-we-go-again\apis\src\app.js", "JavaScript", 16, 0, 0, 0, 0, 0, 0, 0, 4, 20
+"c:\Users\yusuf\Desktop\he-we-go-again\apis\src\controllers\models\user.js", "JavaScript", 16, 0, 0, 0, 0, 0, 0, 3, 1, 20
+"c:\Users\yusuf\Desktop\he-we-go-again\apis\src\controllers\user.js", "JavaScript", 56, 0, 0, 0, 0, 0, 0, 0, 6, 62
+"c:\Users\yusuf\Desktop\he-we-go-again\apis\src\views\user.js", "JavaScript", 9, 0, 0, 0, 0, 0, 0, 0, 4, 13
+"c:\Users\yusuf\Desktop\he-we-go-again\babel.config.js", "JavaScript", 5, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"c:\Users\yusuf\Desktop\he-we-go-again\cryptojs.js", "JavaScript", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\yusuf\Desktop\he-we-go-again\jsconfig.json", "JSON with Comments", 0, 8, 0, 0, 0, 0, 0, 12, 0, 20
+"c:\Users\yusuf\Desktop\he-we-go-again\package.json", "JSON", 0, 0, 0, 59, 0, 0, 0, 0, 1, 60
+"c:\Users\yusuf\Desktop\he-we-go-again\public\index.html", "HTML", 0, 0, 0, 0, 0, 0, 16, 1, 1, 18
+"c:\Users\yusuf\Desktop\he-we-go-again\src\App.vue", "Vue", 0, 0, 22, 0, 0, 0, 0, 1, 3, 26
+"c:\Users\yusuf\Desktop\he-we-go-again\src\assets\logo.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 1, 2
+"c:\Users\yusuf\Desktop\he-we-go-again\src\components\HelloWorld copy.vue", "Vue", 0, 0, 137, 0, 0, 0, 0, 0, 13, 150
+"c:\Users\yusuf\Desktop\he-we-go-again\src\components\HelloWorld.vue", "Vue", 0, 0, 137, 0, 0, 0, 0, 0, 13, 150
+"c:\Users\yusuf\Desktop\he-we-go-again\src\components\appBar.vue", "Vue", 0, 0, 14, 0, 0, 0, 0, 0, 2, 16
+"c:\Users\yusuf\Desktop\he-we-go-again\src\components\footerSection.vue", "Vue", 0, 0, 26, 0, 0, 0, 0, 0, 3, 29
+"c:\Users\yusuf\Desktop\he-we-go-again\src\components\forgotPassword.vue", "Vue", 0, 0, 35, 0, 0, 0, 0, 0, 3, 38
+"c:\Users\yusuf\Desktop\he-we-go-again\src\components\navigationDrawer.vue", "Vue", 0, 0, 37, 0, 0, 0, 0, 0, 2, 39
+"c:\Users\yusuf\Desktop\he-we-go-again\src\main.js", "JavaScript", 17, 0, 0, 0, 0, 0, 0, 0, 4, 21
+"c:\Users\yusuf\Desktop\he-we-go-again\src\plugins\vuetify.js", "JavaScript", 5, 0, 0, 0, 0, 0, 0, 3, 3, 11
+"c:\Users\yusuf\Desktop\he-we-go-again\src\plugins\webfontloader.js", "JavaScript", 8, 0, 0, 0, 0, 0, 0, 5, 3, 16
+"c:\Users\yusuf\Desktop\he-we-go-again\src\router\index.js", "JavaScript", 34, 0, 0, 0, 0, 0, 0, 0, 5, 39
+"c:\Users\yusuf\Desktop\he-we-go-again\src\store\index.js", "JavaScript", 13, 0, 0, 0, 0, 0, 0, 0, 2, 15
+"c:\Users\yusuf\Desktop\he-we-go-again\src\utils\appAxios.js", "JavaScript", 5, 0, 0, 0, 0, 0, 0, 0, 3, 8
+"c:\Users\yusuf\Desktop\he-we-go-again\src\views\AboutView.vue", "Vue", 0, 0, 5, 0, 0, 0, 0, 0, 1, 6
+"c:\Users\yusuf\Desktop\he-we-go-again\src\views\HomeView.vue", "Vue", 0, 0, 9, 0, 0, 0, 0, 0, 2, 11
+"c:\Users\yusuf\Desktop\he-we-go-again\src\views\LoginView.vue", "Vue", 0, 0, 54, 0, 0, 0, 0, 0, 1, 55
+"c:\Users\yusuf\Desktop\he-we-go-again\src\views\RegisterView.vue", "Vue", 0, 0, 73, 0, 0, 0, 0, 1, 2, 76
+"c:\Users\yusuf\Desktop\he-we-go-again\src\views\UserView.vue", "Vue", 0, 0, 6, 0, 0, 0, 0, 0, 2, 8
+"c:\Users\yusuf\Desktop\he-we-go-again\vue.config.js", "JavaScript", 8, 0, 0, 0, 0, 0, 0, 1, 2, 11
+"Total", "-", 192, 8, 555, 3621, 1, 19, 16, 27, 97, 4536

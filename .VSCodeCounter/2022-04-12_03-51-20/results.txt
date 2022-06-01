@@ -1,0 +1,76 @@
+Date : 2022-04-12 03:51:20
+Directory : c:\Users\yusuf\Desktop\he-we-go-again
+Total : 32 files,  4412 codes, 27 comments, 97 blanks, all 4536 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          3 |      3,621 |          0 |          3 |      3,624 |
+| Vue                |         12 |        555 |          2 |         47 |        604 |
+| JavaScript         |         13 |        192 |         12 |         39 |        243 |
+| Markdown           |          1 |         19 |          0 |          6 |         25 |
+| HTML               |          1 |         16 |          1 |          1 |         18 |
+| JSON with Comments |          1 |          8 |         12 |          0 |         20 |
+| XML                |          1 |          1 |          0 |          1 |          2 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                      | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                         |         32 |      4,412 |         27 |         97 |      4,536 |
+| apis                                                                      |          6 |      3,659 |          3 |         17 |      3,679 |
+| apis\src                                                                  |          4 |         97 |          3 |         15 |        115 |
+| apis\src\controllers                                                      |          2 |         72 |          3 |          7 |         82 |
+| apis\src\controllers\models                                               |          1 |         16 |          3 |          1 |         20 |
+| apis\src\views                                                            |          1 |          9 |          0 |          4 |         13 |
+| public                                                                    |          1 |         16 |          1 |          1 |         18 |
+| src                                                                       |         19 |        638 |         10 |         68 |        716 |
+| src\assets                                                                |          1 |          1 |          0 |          1 |          2 |
+| src\components                                                            |          6 |        386 |          0 |         36 |        422 |
+| src\plugins                                                               |          2 |         13 |          8 |          6 |         27 |
+| src\router                                                                |          1 |         34 |          0 |          5 |         39 |
+| src\store                                                                 |          1 |         13 |          0 |          2 |         15 |
+| src\utils                                                                 |          1 |          5 |          0 |          3 |          8 |
+| src\views                                                                 |          5 |        147 |          1 |          8 |        156 |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                  | language           | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\yusuf\Desktop\he-we-go-again\README.md                           | Markdown           |         19 |          0 |          6 |         25 |
+| c:\Users\yusuf\Desktop\he-we-go-again\apis\package-lock.json              | JSON               |      3,541 |          0 |          1 |      3,542 |
+| c:\Users\yusuf\Desktop\he-we-go-again\apis\package.json                   | JSON               |         21 |          0 |          1 |         22 |
+| c:\Users\yusuf\Desktop\he-we-go-again\apis\src\app.js                     | JavaScript         |         16 |          0 |          4 |         20 |
+| c:\Users\yusuf\Desktop\he-we-go-again\apis\src\controllers\models\user.js | JavaScript         |         16 |          3 |          1 |         20 |
+| c:\Users\yusuf\Desktop\he-we-go-again\apis\src\controllers\user.js        | JavaScript         |         56 |          0 |          6 |         62 |
+| c:\Users\yusuf\Desktop\he-we-go-again\apis\src\views\user.js              | JavaScript         |          9 |          0 |          4 |         13 |
+| c:\Users\yusuf\Desktop\he-we-go-again\babel.config.js                     | JavaScript         |          5 |          0 |          1 |          6 |
+| c:\Users\yusuf\Desktop\he-we-go-again\cryptojs.js                         | JavaScript         |          0 |          0 |          1 |          1 |
+| c:\Users\yusuf\Desktop\he-we-go-again\jsconfig.json                       | JSON with Comments |          8 |         12 |          0 |         20 |
+| c:\Users\yusuf\Desktop\he-we-go-again\package.json                        | JSON               |         59 |          0 |          1 |         60 |
+| c:\Users\yusuf\Desktop\he-we-go-again\public\index.html                   | HTML               |         16 |          1 |          1 |         18 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\App.vue                         | Vue                |         22 |          1 |          3 |         26 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\assets\logo.svg                 | XML                |          1 |          0 |          1 |          2 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\components\HelloWorld copy.vue  | Vue                |        137 |          0 |         13 |        150 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\components\HelloWorld.vue       | Vue                |        137 |          0 |         13 |        150 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\components\appBar.vue           | Vue                |         14 |          0 |          2 |         16 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\components\footerSection.vue    | Vue                |         26 |          0 |          3 |         29 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\components\forgotPassword.vue   | Vue                |         35 |          0 |          3 |         38 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\components\navigationDrawer.vue | Vue                |         37 |          0 |          2 |         39 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\main.js                         | JavaScript         |         17 |          0 |          4 |         21 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\plugins\vuetify.js              | JavaScript         |          5 |          3 |          3 |         11 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\plugins\webfontloader.js        | JavaScript         |          8 |          5 |          3 |         16 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\router\index.js                 | JavaScript         |         34 |          0 |          5 |         39 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\store\index.js                  | JavaScript         |         13 |          0 |          2 |         15 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\utils\appAxios.js               | JavaScript         |          5 |          0 |          3 |          8 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\views\AboutView.vue             | Vue                |          5 |          0 |          1 |          6 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\views\HomeView.vue              | Vue                |          9 |          0 |          2 |         11 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\views\LoginView.vue             | Vue                |         54 |          0 |          1 |         55 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\views\RegisterView.vue          | Vue                |         73 |          1 |          2 |         76 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\views\UserView.vue              | Vue                |          6 |          0 |          2 |          8 |
+| c:\Users\yusuf\Desktop\he-we-go-again\vue.config.js                       | JavaScript         |          8 |          1 |          2 |         11 |
+| Total                                                                     |                    |      4,412 |         27 |         97 |      4,536 |
++---------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+

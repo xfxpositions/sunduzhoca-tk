@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhe_we_go_again"]=self["webpackChunkhe_we_go_again"]||[]).push([[574],{7574:function(n,a,e){e.r(a),e.d(a,{default:function(){return _}});var u=e(3396);const t={class:"about"},r=(0,u._)("h1",null,"This is an about page",-1),s=[r];function i(n,a){return(0,u.wg)(),(0,u.iD)("div",t,s)}var c=e(89);const o={},h=(0,c.Z)(o,[["render",i]]);var _=h}}]);
+//# sourceMappingURL=574.d905a006.js.map

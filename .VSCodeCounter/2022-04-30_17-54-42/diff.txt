@@ -1,0 +1,48 @@
+Date : 2022-04-30 17:54:42
+Directory : c:\Users\yusuf\Desktop\he-we-go-again
+Total : 13 files,  241 codes, -3 comments, 16 blanks, all 254 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| Vue        |          6 |        160 |          0 |         14 |        174 |
+| JSON       |          2 |         45 |          0 |          0 |         45 |
+| JavaScript |          5 |         36 |         -3 |          2 |         35 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                    | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                       |         13 |        241 |         -3 |         16 |        254 |
+| apis                                                                    |          3 |         13 |         -3 |          0 |         10 |
+| apis\src                                                                |          3 |         13 |         -3 |          0 |         10 |
+| apis\src\controllers                                                    |          1 |          6 |         -3 |         -1 |          2 |
+| apis\src\models                                                         |          1 |          6 |          0 |          0 |          6 |
+| apis\src\views                                                          |          1 |          1 |          0 |          1 |          2 |
+| src                                                                     |          8 |        183 |          0 |         16 |        199 |
+| src\components                                                          |          4 |        149 |          0 |         12 |        161 |
+| src\plugins                                                             |          1 |         17 |          0 |          0 |         17 |
+| src\views                                                               |          2 |         11 |          0 |          2 |         13 |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                | language   | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\yusuf\Desktop\he-we-go-again\apis\src\controllers\user.js      | JavaScript |          6 |         -3 |         -1 |          2 |
+| c:\Users\yusuf\Desktop\he-we-go-again\apis\src\models\user.js           | JavaScript |          6 |          0 |          0 |          6 |
+| c:\Users\yusuf\Desktop\he-we-go-again\apis\src\views\user.js            | JavaScript |          1 |          0 |          1 |          2 |
+| c:\Users\yusuf\Desktop\he-we-go-again\package-lock.json                 | JSON       |         43 |          0 |          0 |         43 |
+| c:\Users\yusuf\Desktop\he-we-go-again\package.json                      | JSON       |          2 |          0 |          0 |          2 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\components\changePassword.vue | Vue        |         61 |          0 |          2 |         63 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\components\fileUpload.vue     | Vue        |          1 |          0 |          0 |          1 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\components\googleAuth.vue     | Vue        |         87 |          0 |          8 |         95 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\components\googleAuthJS.vue   | Vue        |          0 |          0 |          2 |          2 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\main.js                       | JavaScript |          6 |          0 |          2 |          8 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\plugins\vuetify.js            | JavaScript |         17 |          0 |          0 |         17 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\views\LoginView.vue           | Vue        |          3 |          0 |          1 |          4 |
+| c:\Users\yusuf\Desktop\he-we-go-again\src\views\SettingsView.vue        | Vue        |          8 |          0 |          1 |          9 |
+| Total                                                                   |            |        241 |         -3 |         16 |        254 |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
